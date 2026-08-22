@@ -27,3 +27,139 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevankumarnaikdungavath&show_icons=true&locale=en" alt="jeevankumarnaikdungavath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevankumarnaikdungavath&" alt="jeevankumarnaikdungavath" /></p>
+# Hi 👋, I'm Jeevan Naik
+
+### 🚀 Java Full Stack Developer | B.Tech CSE Graduate | Open to Work
+
+I'm a Computer Science graduate passionate about building **web applications** and learning modern software development technologies.
+
+I enjoy solving problems, developing projects, and improving my skills in **Java Full Stack Development**.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Interested in Java Full Stack Development
+* 🌱 Currently improving my skills in **Java, Spring Boot, React.js & SQL**
+* 🔨 Building projects to gain real-world development experience
+* 💡 Interested in Software Developer / Java Developer / Full Stack Developer roles
+* 📫 Open to internship and job opportunities
+
+---
+
+## 🛠️ Skills
+
+### Programming
+
+* Java
+* JavaScript
+* Python
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+
+### Backend
+
+* Java
+* Spring Boot
+* REST APIs
+
+### Database
+
+* MySQL
+* SQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+* Postman
+
+---
+
+## 🚀 Projects
+
+### 🏦 Bank Management System
+
+Java-based application for managing basic banking operations such as accounts, deposits and withdrawals.
+
+**Technologies:** Java, OOP, SQL
+
+### 💰 Expense Tracker
+
+A React.js application for managing and tracking personal expenses.
+
+**Technologies:** React.js, JavaScript, HTML, CSS
+
+### 🌦️ Weather App
+
+A responsive weather application that displays weather information using an API.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 🌐 Responsive Website
+
+A responsive website designed for different screen sizes.
+
+**Technologies:** React.js, Tailwind CSS
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+   ↓
+OOP
+   ↓
+SQL & DBMS
+   ↓
+Spring Boot
+   ↓
+REST APIs
+   ↓
+React.js
+   ↓
+Java Full Stack Development
+```
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Improve Java fundamentals
+* 🔄 Master Spring Boot
+* 🔄 Build full-stack applications
+* 🔄 Improve DSA and problem-solving
+* 🔄 Contribute to GitHub projects
+* 🎯 Get a Java Full Stack Developer role
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
+jeevan-naik)
+* 📧 Email: [your-email@example.com](dungavathjeevankumarnaikj@gmail.com)
+* 🐙 GitHub: [@YOUR_USERNAME](https://github.com/Jeevankumarnaikdungavath)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together! 🚀**
